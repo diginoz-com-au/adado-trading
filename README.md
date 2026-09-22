@@ -1,3 +1,13 @@
+<!-- adado:brand:v1 -->
+<p align="center"><img src="https://raw.githubusercontent.com/diginoz-com-au/adado-trading/develop/.adado/adado-logo.png" width="96" alt="AdaDo logo" /></p>
+
+<h3 align="center">AdaDo Fork</h3>
+<p align="center"><em>Part of the AdaDo App Store — every app in the AdaDo ecosystem runs as a private, per-user isolated instance.</em></p>
+<p align="center"><a href="https://github.com/freqtrade/freqtrade">Upstream: freqtrade/freqtrade</a></p>
+
+---
+<!-- /adado:brand:v1 -->
+
 # ![freqtrade](https://raw.githubusercontent.com/freqtrade/freqtrade/develop/docs/assets/freqtrade_poweredby.svg)
 
 [![Freqtrade CI](https://github.com/freqtrade/freqtrade/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/freqtrade/freqtrade/actions/workflows/ci.yml)
